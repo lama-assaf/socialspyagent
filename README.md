@@ -6,6 +6,9 @@
   <p>Easily gather data from YouTube, Instagram, TikTok, and hundreds of other platforms</p>
 </div>
 
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
+
 ## 📋 What is SocialSpyAgent?
 
 SocialSpyAgent is a powerful, easy-to-use command-line tool that helps you gather intelligence from various social media platforms. Whether you're researching competitors, tracking social media trends, or just curious about someone's online presence, SocialSpyAgent makes it simple.
